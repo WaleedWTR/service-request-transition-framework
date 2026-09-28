@@ -1,0 +1,8 @@
+request_type,monthly_volume,before_hours,after_hours,first_time_right_pct,transitioned
+Software Access,310,18.0,7.5,96.0,true
+Shared Mailbox,180,14.0,6.0,97.0,true
+Device Accessory,240,22.0,9.0,95.0,true
+Distribution List,135,12.0,5.5,98.0,true
+Standard Software,420,26.0,11.0,94.0,true
+Account Amendment,265,16.0,7.0,96.0,true
+Remote Access,155,20.0,8.5,93.0,true
